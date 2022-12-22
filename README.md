@@ -1,6 +1,6 @@
 
   <p align="center">
-    Anti Rejection for ur crush (ew yuck)
+    Paano mag sorry sa mahal mo hahaha
     <br />
     <a href="https://aayee13.github.io/Sorry/">View Demo</a>
     ·
